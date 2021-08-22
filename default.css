@@ -1,0 +1,30 @@
+body {
+  margin-right: 100px;
+  margin-left: 100px;
+  font-family: Verdana, Geneva, sans-serif;
+  color: #CD0B07;
+  background-color: 110B0B;
+  font-size:  17px;
+  letter-spacing: -0.4px;
+}
+
+  h1 {
+  text-align: center;
+  font-size: 38px;
+  padding: 8px;
+  }
+  
+  .border{  
+	border-style: groove;
+	border-width:2px;
+	border-color:gray;
+	padding: 10px;
+}
+
+h2 {
+text-align: center; 
+  font-size:  25px;
+}
+
+footer {
+	text-align: center
