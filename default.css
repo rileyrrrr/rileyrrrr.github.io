@@ -1,9 +1,14 @@
+html {
+	background color: #FAF8F8;
+	padding: 10px;
+}
+
 body {
   margin-right: 100px;
   margin-left: 100px;
   font-family: Verdana, Geneva, sans-serif;
-  color: #CD0B07;
-  background-color: #110B0B;
+  color: #253031;
+  background-color: #C6E0FF;
   font-size:  17px;
   letter-spacing: -0.4px;
 }
@@ -17,8 +22,9 @@ body {
   .border{  
 	border-style: groove;
 	border-width:2px;
-	border-color:gray;
+	border-color: #315659;
 	padding: 10px;
+	margin: 10px;
 }
 
 h2 {
@@ -27,5 +33,14 @@ text-align: center;
 }
 
 footer {
-	text-align: center
+	text-align: center	
 }
+
+a:hover {
+	color: #BCAB79;
+	
+}
+a:link {
+	color: #3292C3;
+}	
+	
