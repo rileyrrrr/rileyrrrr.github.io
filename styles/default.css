@@ -43,4 +43,11 @@ a:hover {
 a:link {
 	color: #3292C3;
 }	
+
+figure {
+	text-align:center;
+	font style: italic;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 	
