@@ -1,5 +1,4 @@
 html {
-	background color: #FAF8F8;
 	padding: 10px;
 }
 
@@ -46,7 +45,6 @@ a:link {
 
 figure {
 	text-align:center;
-	font style: italic;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
