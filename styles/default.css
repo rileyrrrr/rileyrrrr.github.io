@@ -1,26 +1,32 @@
-
-body {
-  margin-right: 100px;
-  margin-left: 100px;
-  font-family: Verdana, Geneva, sans-serif;
-  color: #253031;
-  background-color: #C6E0FF;
-  font-size:  17px;
-  letter-spacing: -0.4px;
-  
+body 
+{
+	margin-right: 100px;
+	margin-left: 100px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #253031;
+	background-color: #C6E0FF;
+	font-size:  17px;
+	letter-spacing: -0.4px;  
 }
 
-  h1 {
-  text-align: center;
-  font-size: 55px;
-  padding: 15px;
-  font-family: "Chau Philomene One", sans-serif;
-  background-color: #8AADD0;
-  margin-right:20px;
-  margin-left:20px;
+p
+{
+	color:  #01383C;
+}
+
+h1 
+{
+	text-align: center;
+	font-size: 55px;
+	font-family: "Chau Philomene One", sans-serif;
+	background-color: #8AADD0;
+	margin-right:20px;
+	margin-left:20px;
+	color:  #01383C;
   }
   
-  .border{  
+.border
+{  
 	border-style: groove;
 	border-width:2px;
 	border-color: #315659;
@@ -29,45 +35,90 @@ body {
     background-color: #8AADD0;
 }
 
-h2 {
-text-align: center; 
-  font-size:  35px;
-  
-  
+h2 
+{
+   text-align: center; 
+   font-size:  35px; 
+   color:  #01383C;
 }
-h3 {
+
+h3 
+{
 	font-family: Montaga, serif;
 	font-size: 25px;
 	color: #2C383A;
 }
-.center{
-	
+
+.center
+{
 	text-align:center;
 }
-footer {
+
+footer
+{
 	text-align: center	
 }
 
-a:hover {
+a:hover 
+{
 	color: #BCAB79;
-	
 }
-a:link {
-	color: #3292C3;
-}	
 
-figure {
+a:link 
+{
+	color: #01383C;
+}	
+em
+{
+	color: #01383C;
+}
+
+figure 
+{
 	text-align:center;
 	font style: italic;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
-figcaption {
+
+figcaption 
+{
 	font-style: italics;
 }
-li{
+
+li
+{
 	font-family: Montaga, serif;
 	font-size: 25px;
 	color: #2C383A;
 }
 	
+.border
+{  
+	border-style: groove;
+	border-width:2px;
+	border-color: #315659;
+	padding: 10px;
+	margin: 20px;
+	background-color: #8AADD0;
+}
+
+.border2
+{  
+   border-style: groove;
+   border-width: 2px;
+   margin:20px;
+   margin-bottom: -10px;
+   border-color: #315659;
+   background-color: #8AADD0;
+}
+
+h5
+{  
+	text-align: center;
+	font-size: 55px;
+	font-family: "Chau Philomene One", sans-serif;
+	background-color: #8AADD0;
+	margin-right:20px;
+	margin-left:20px;
+}
