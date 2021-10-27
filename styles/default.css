@@ -23,7 +23,7 @@ h1
 	margin-right:20px;
 	margin-left:20px;
 	color:  #01383C;
-}
+  }
   
 .border
 {  
@@ -115,10 +115,22 @@ li
 
 h5
 {  
-	text-align: center;
-	font-size: 55px;
-	font-family: "Chau Philomene One", sans-serif;
-	background-color: #8AADD0;
-	margin-right:20px;
-	margin-left:20px;
+  text-align: center;
+  font-size: 55px;
+  font-family: "Chau Philomene One", sans-serif;
+  background-color: #8AADD0;
+  margin-right:20px;
+  margin-left:20px;
+}
+
+p.input
+{
+  text-align: center;
+  background-color: #61A3A8;
+}
+
+p.output
+{
+  text-align: center;
+  background-color:  #69898C;
 }
